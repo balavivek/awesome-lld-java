@@ -13,3 +13,7 @@ By leveraging proven design patterns and best practices, Awesome LLD Java empowe
 
 **Target Audience:**
 This project is aimed at Java developers ranging from beginners to experienced professionals who are looking to deepen their understanding of low-level design principles and improve their software development practices.
+
+Beginners can start with below topics to learn about basics and practical implementations in Java.
+
+[Access Modifiers](AccessModifiersExamples.java)
