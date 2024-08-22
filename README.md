@@ -18,3 +18,4 @@ Beginners can start with below topics to learn about basics and practical implem
 
 - [Access Modifiers](java/src/awesome/lld/java/oop/accessmodifiers/AccessModifiersExamples.java)
 - [Constructors](java/src/awesome/lld/java/oop/constructors/ConstructorsExample.java)
+- [Inheritance](java/src/awesome/lld/java/oop/inheritance/InheritanceExamples.java)
