@@ -50,24 +50,27 @@ public class ConstructorsExample {
 
     public static void main(String[] args) {
         // instance of the class is created with default constructor.
-        ConstructorsExample defaultConstructorsExample = new ConstructorsExample();
+        ConstructorsExample defaultConstructorsExample = new ConstructorsExample(); // Output: Default Constructor called !
 
         // instance of the class is created with Parameterized constructor.
         ConstructorsExample oops = new ConstructorsExample("lld-1", "oops");
         System.out.println("oops : Course Name : "+oops.course+" Topic Name : "+oops.topic);
+        // Output: oops : Course Name : lld-1 Topic Name : oops
 
         // instance of the class is created with Parameterized constructor.
         ConstructorsExample accessModifier = new ConstructorsExample("lld-2", "accessModifier");
         System.out.println("accessModifier : Course Name : "+accessModifier.course+" Topic Name : "+accessModifier.topic);
-
+        // Output: accessModifier : Course Name : lld-2 Topic Name : accessModifier
 
         // instance of the class is created with Parameterized constructor and constructor overloading.
         ConstructorsExample courseName = new ConstructorsExample("lld");
         System.out.println("overloading : Course Name : "+courseName.course);
+        // Output: overloading : Course Name : lld
 
         // instance of the class is created with copy constructor
         ConstructorsExample copyConstructor = new ConstructorsExample(accessModifier);
         System.out.println("copyConstructor : Course Name : "+copyConstructor.course+" Topic Name : "+copyConstructor.topic);
+        // Output: copyConstructor : Course Name : lld-2 Topic Name : accessModifier
 
     }
 }
