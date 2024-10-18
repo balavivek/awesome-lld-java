@@ -10,58 +10,26 @@ public class InheritanceExamples {
     public static void main(String[] args) {
         Car thar = new Car("Mahindra", 2022, "Thar", 3);
         thar.startEngine(); // Output: Engine started
-        thar.honk(); // Output: Mahindra Thar manufacture in 2022 which has 3 is honking ...
+        thar.honk(); // Output: Mahindra Thar manufacture in 2022 which has 3 doors is honking ...
         thar.stopEngine();// Output: Engine Stopped
 
-        Car bmw = new Car("BMW", 2023, "X1", 5);
-        bmw.startEngine();// Output: Engine started
-        bmw.honk();// Output: BMW X1 manufacture in 2023 which has 5 is honking ...
-        bmw.stopEngine();// Output: Engine Stopped
+        Car fortuner = new Car("Toyota", 2023, "Fortuner", 5);
+        fortuner.startEngine();// Output: Engine started
+        fortuner.honk();// Output: Toyota Fortuner manufacture in 2023 which has 5 doors is honking ...
+        fortuner.stopEngine();// Output: Engine Stopped
+
+
+        LuxuryCar bmw = new LuxuryCar("BMW ", 2024, "7 Series", 5, "ventilated ");
+        bmw.startEngine(); // Output: Engine started
+        bmw.honk(); // Output: BMW 7 Series manufacture in 2024 which has 5 doors is honking ...
+                    // ventilated  activated !
+        bmw.stopEngine(); // Output: Engine Stopped
 
     }
 
 }
 
-/**
- * Super class or Parent class
- */
-class Vehicle {
-    String brand;
-    int manufactureYear;
 
-    Vehicle(String brand, int manufactureYear) {
-        this.brand = brand;
-        this.manufactureYear = manufactureYear;
-    }
 
-    void startEngine() {
-        System.out.println("Engine started");
-    }
 
-    void stopEngine() {
-        System.out.println("Engine Stopped");
-    }
-
-}
-
-/**
- * Sub Class or Child class
- */
-class Car extends Vehicle {
-    String model;
-    int noOfDoors;
-
-    Car(String brand, int manufactureYear, String model, int noOfDoors) {
-        super(brand, manufactureYear);
-        this.model = model;
-        this.noOfDoors = noOfDoors;
-    }
-
-    void honk() {
-        String message = super.brand + " " + this.model + " manufacture in " + super.manufactureYear
-                + " which has " + this.noOfDoors;
-        System.out.println(message + " is honking ...");
-    }
-
-}
 
