@@ -12,7 +12,7 @@ The `StackExample` demonstrates the implementation of a stack using two differen
 - **LinkedListStack:** Implements the stack using a linked list.
 
 **Code:**
-- [StackExample.java](java/src/awesome/lld/java/oop/interfaces/stack/StackExample.java)
+- [StackExample.java](../java/src/awesome/lld/java/oop/interfaces/stack/StackExample.java)
 
 ### 2. Notification Example
 
@@ -23,7 +23,7 @@ The `NotificationExample` demonstrates a real-time scenario related to LinkedIn 
 - **JobAlertNotification:** Sends a job alert notification.
 
 **Code:**
-- [NotificationExample.java](java/src/awesome/lld/java/oop/interfaces/linkedin/NotificationExample.java)
+- [NotificationExample.java](../java/src/awesome/lld/java/oop/interfaces/linkedin/NotificationExample.java)
 
 ## How to Run
 

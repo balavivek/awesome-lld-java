@@ -1,29 +1,29 @@
-# Awesome LLD Java
+# Awesome LLD Java 🚀
 
-Awesome LLD Java is a comprehensive library/framework designed to simplify low-level design (LLD) concepts in Java development. 
-This project aims to provide developers with essential tools, patterns, and utilities that enhance the implementation of robust, scalable, and maintainable Java applications. 
-By leveraging proven design patterns and best practices, Awesome LLD Java empowers developers to create clean, efficient, and high-quality code while reducing complexity and improving productivity.
+Awesome LLD Java is a comprehensive library/framework designed to simplify low-level design (LLD) concepts in Java development. This project aims to provide developers with essential tools, patterns, and utilities that enhance the implementation of robust, scalable, and maintainable Java applications. By leveraging proven design patterns and best practices, Awesome LLD Java empowers developers to create clean, efficient, and high-quality code while reducing complexity and improving productivity.
 
-**Key Features:**
+## Key Features ✨
+
 - **Design Patterns Repository:** A curated collection of common design patterns (e.g., Singleton, Factory, Observer) with practical Java implementations.
 - **Modular Architecture:** An extensible structure that encourages modular design, making it easy to integrate with existing projects.
 - **Documentation and Examples:** Comprehensive documentation with real-world examples to help developers understand and apply LLD concepts effectively.
 - **Code Quality Tools:** Built-in utilities to enforce coding standards, ensuring high code quality and maintainability.
 - **Community Contributions:** An open-source approach that invites contributions, fostering collaboration and continuous improvement.
 
-**Target Audience:**
+## Target Audience 🎯
+
 This project is aimed at Java developers ranging from beginners to experienced professionals who are looking to deepen their understanding of low-level design principles and improve their software development practices.
 
-Beginners can start with below topics to learn about basics and practical implementations in Java.
+### Beginners 😊
 
-- [Access Modifiers](java/src/awesome/lld/java/oop/accessmodifiers/AccessModifiersExamples.java)
-- [Constructors](java/src/awesome/lld/java/oop/constructors/ConstructorsExample.java)
-- [Inheritance](java/src/awesome/lld/java/oop/inheritance/InheritanceExamples.java)
-- [Interfaces](Interface.md)
+Beginners can start with the following topics to learn about basics and practical implementations in Java:
 
+**Object Oriented Programming (OOP)**
+- [Access Modifiers](markdown/access_modifiers.md)
+- [Constructors](markdown/constructor.md)
+- [Inheritance](markdown/inheritance.md)
+- [Interfaces](markdown/interface.md)
 
-
-
-## License
+## License 📄
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
