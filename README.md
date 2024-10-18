@@ -18,12 +18,19 @@ This project is aimed at Java developers ranging from beginners to experienced p
 
 Beginners can start with the following topics to learn about basics and practical implementations in Java:
 
-**Object Oriented Programming (OOP)**
+**Object-Oriented Programming (OOP)**
 - [Access Modifiers](markdown/access_modifiers.md)
 - [Constructors](markdown/constructor.md)
 - [Inheritance](markdown/inheritance.md)
 - [Interfaces](markdown/interface.md)
 
+
+## Contributing 📥
+
+We welcome [contributions](markdown/contribute.md) to improve our documentation. If you find any errors or areas that need clarification, please feel free to submit a [pull request](markdown/contribute.md). You can also [contribute](markdown/contribute.md) by adding new topics or enhancing existing ones.
+
+
+  
 ## License 📄
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
