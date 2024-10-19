@@ -14,7 +14,7 @@ The `AccessModifiersExamples` class illustrates the four types of access modifie
 - **Default**: Accessible only within the same package.
 
 **Code:**
-- [AccessModifiersExamples.java](../java/src/awesome/lld/java/oop/accessmodifiers/AccessModifiersExamples.java)
+- [AccessModifiersExamples.java](../../java/src/awesome/lld/java/oop/accessmodifiers/AccessModifiersExamples.java)
 
 ## How to Run
 

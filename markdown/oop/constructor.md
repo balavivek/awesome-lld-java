@@ -21,7 +21,7 @@ Constructor overloading allows a class to have more than one constructor with di
 A copy constructor creates a new object as a copy of an existing object.
 
 **Code:**
-- [ConstructorsExample.java](../java/src/awesome/lld/java/oop/constructors/ConstructorsExample.java)
+- [ConstructorsExample.java](../../java/src/awesome/lld/java/oop/constructors/ConstructorsExample.java)
 
 ## How to Run
 

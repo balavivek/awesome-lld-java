@@ -19,10 +19,20 @@ This project is aimed at Java developers ranging from beginners to experienced p
 Beginners can start with the following topics to learn about basics and practical implementations in Java:
 
 **Object-Oriented Programming (OOP)**
-- [Access Modifiers](markdown/access_modifiers.md)
-- [Constructors](markdown/constructor.md)
-- [Inheritance](markdown/inheritance.md)
-- [Interfaces](markdown/interface.md)
+- [Access Modifiers](markdown/oop/access_modifiers.md)
+- [Constructors](markdown/oop/constructor.md)
+- [Inheritance](markdown/oop/inheritance.md)
+- [Interfaces](markdown/oop/interface.md)
+- [Abstraction](markdown/oop/abstraction.md)
+- [Final Keyword](markdown/oop/final.md)
+
+**Threads and Concurrency**
+- [Threads](markdown/concurrency/thread.md)
+- [Synchronization](markdown/concurrency/synchronization.md)
+- [Locks (ReentrantLock)](markdown/concurrency/locks.md)
+- [Executor Framework](markdown/concurrency/executorframework.md)
+- [Callable and Future](markdown/concurrency/callablefuture.md)
+- [Concurrent Collections](markdown/concurrency/concurrentcollections.md)
 
 
 ## Contributing 📥
