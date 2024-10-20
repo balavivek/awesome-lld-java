@@ -33,6 +33,12 @@ Beginners can start with the following topics to learn about basics and practica
 - [Executor Framework](markdown/concurrency/executorframework.md)
 - [Callable and Future](markdown/concurrency/callablefuture.md)
 - [Concurrent Collections](markdown/concurrency/concurrentcollections.md)
+- [Volatile Keyword](markdown/concurrency/volatilekeyword.md)
+- [Fork/Join Framework](markdown/concurrency/forkjoin.md)
+- [Blocking Queues](markdown/concurrency/blockingqueue.md)
+
+**Generics**
+- [Data Repository Generics](markdown/generics/datarepository.md)
 
 
 ## Contributing 📥
