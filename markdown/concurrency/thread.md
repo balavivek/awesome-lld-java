@@ -9,28 +9,28 @@ This project demonstrates the creation and usage of threads in Java using both t
 The `MyThread` class extends the `Thread` class to create a new thread.
 
 **Code:**
-- [MyThread.java](../../java/src/awesome/lld/java/concurrency/thread/MyThread.java)
+- [MyThread.java](../../java/src/awesome/lld/fundamentals/concurrency/thread/MyThread.java)
 
 ### 2. MyRunnable Example
 
 The `MyRunnable` class implements the `Runnable` interface to create a new thread.
 
 **Code:**
-- [MyRunnable.java](../../java/src/awesome/lld/java/concurrency/thread/MyRunnable.java)
+- [MyRunnable.java](../../java/src/awesome/lld/fundamentals/concurrency/thread/MyRunnable.java)
 
 ### 3. FileDownloader Example
 
 The `FileDownloader` class simulates downloading a file using a thread.
 
 **Code:**
-- [FileDownloader.java](../../java/src/awesome/lld/java/concurrency/thread/FileDownloader.java)
+- [FileDownloader.java](../../java/src/awesome/lld/fundamentals/concurrency/thread/FileDownloader.java)
 
 ### 4. DownloadManager Example
 
 The `DownloadManager` class manages multiple file downloads using threads.
 
 **Code:**
-- [DownloadManager.java](../../java/src/awesome/lld/java/concurrency/thread/DownloadManager.java)
+- [DownloadManager.java](../../java/src/awesome/lld/fundamentals/concurrency/thread/DownloadManager.java)
 
 ## How to Run
 

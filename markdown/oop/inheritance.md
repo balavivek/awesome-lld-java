@@ -13,7 +13,7 @@ The `Car` class represents a basic car with properties like manufacturer, year, 
 The `LuxuryCar` class extends the `Car` class, adding additional features like seat type. It inherits the properties and methods of the `Car` class and adds its own unique behavior.
 
 **Code:**
-- [InheritanceExamples.java](../../java/src/awesome/lld/java/oop/inheritance/InheritanceExamples.java)
+- [InheritanceExamples.java](../../java/src/awesome/lld/fundamentals/oop/inheritance/InheritanceExamples.java)
 
 ## How to Run
 

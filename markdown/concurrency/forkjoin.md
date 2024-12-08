@@ -10,7 +10,7 @@ Let's consider a real-time scenario where we need to calculate the sum of a larg
 
 The `ArraySumTask` class extends `RecursiveTask` to define a task that calculates the sum of a portion of the array.
 
-[ArraySumTask.java](../../java/src/awesome/lld/java/concurrency/forkjoin/ArraySumTask.java)
+[ArraySumTask.java](../../java/src/awesome/lld/fundamentals/concurrency/forkjoin/ArraySumTask.java)
 
 
 
@@ -18,7 +18,7 @@ The `ArraySumTask` class extends `RecursiveTask` to define a task that calculate
 
 The `ForkJoinApp` class demonstrates the usage of the Fork/Join Framework to calculate the sum of a large array.
 
-[ForkJoinApp.java](../../java/src/awesome/lld/java/concurrency/forkjoin/ForkJoinApp.java)
+[ForkJoinApp.java](../../java/src/awesome/lld/fundamentals/concurrency/forkjoin/ForkJoinApp.java)
 
 ### Explanation
 

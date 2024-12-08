@@ -10,14 +10,14 @@ Let's consider a real-time scenario where an e-commerce system needs to process 
 
 The `OrderProcessor` class implements the `Runnable` interface to define a task that processes an order.
 
-[OrderProcessor.java](../../java/src/awesome/lld/java/concurrency/executorframework/OrderProcessor.java)
+[OrderProcessor.java](../../java/src/awesome/lld/fundamentals/concurrency/executorframework/OrderProcessor.java)
 
 
 #### ECommerceApp Class
 
 The `ECommerceApp` class demonstrates the usage of the Executor Framework to process multiple orders concurrently.
 
-[ECommerceApp.java](../../java/src/awesome/lld/java/concurrency/executorframework/ECommerceApp.java)
+[ECommerceApp.java](../../java/src/awesome/lld/fundamentals/concurrency/executorframework/ECommerceApp.java)
 
 
 ### Explanation

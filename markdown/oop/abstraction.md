@@ -9,14 +9,14 @@ This project demonstrates the creation and display of different types of social 
 The `TextPost` class represents a social media post containing text content. It extends the `SocialMediaPost` abstract class and provides an implementation for displaying the post.
 
 **Code:**
-- [TextPost.java](../../java/src/awesome/lld/java/oop/abstraction/socialmedia/TextPost.java)
+- [TextPost.java](../../java/src/awesome/lld/fundamentals/oop/abstraction/socialmedia/TextPost.java)
 
 ### 2. ImagePost Example
 
 The `ImagePost` class represents a social media post containing an image. It extends the `SocialMediaPost` abstract class and provides an implementation for displaying the post.
 
 **Code:**
-- [ImagePost.java](../../java/src/awesome/lld/java/oop/abstraction/socialmedia/ImagePost.java)
+- [ImagePost.java](../../java/src/awesome/lld/fundamentals/oop/abstraction/socialmedia/ImagePost.java)
 
 ## How to Run
 
@@ -42,7 +42,7 @@ This project demonstrates basic banking operations using a `SavingsAccount` clas
 The `SavingsAccount` class represents a bank account that accrues interest. It extends the `BankAccount` class and provides implementations for withdrawing money and adding interest.
 
 **Code:**
-- [SavingsAccount.java](../../java/src/awesome/lld/java/oop/abstraction/bank/SavingsAccount.java)
+- [SavingsAccount.java](../../java/src/awesome/lld/fundamentals/oop/abstraction/bank/SavingsAccount.java)
 
 ## How to Run
 

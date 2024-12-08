@@ -10,14 +10,14 @@ Let's consider a real-time scenario where an application needs to fetch data fro
 
 The `DataFetcher` class implements the `Callable` interface to define a task that fetches data from an API.
 
-[DataFetcher.java](../../java/src/awesome/lld/java/concurrency/callablefuture/DataFetcher.java)
+[DataFetcher.java](../../java/src/awesome/lld/fundamentals/concurrency/callablefuture/DataFetcher.java)
 
 
 #### DataFetchApp Class
 
 The `DataFetchApp` class demonstrates the usage of `Callable` and `Future` to fetch data from multiple APIs concurrently.
 
-[DataFetchApp.java](../../java/src/awesome/lld/java/concurrency/callablefuture/DataFetchApp.java)
+[DataFetchApp.java](../../java/src/awesome/lld/fundamentals/concurrency/callablefuture/DataFetchApp.java)
 
 ### Explanation
 

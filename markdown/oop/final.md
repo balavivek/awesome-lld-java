@@ -9,14 +9,14 @@ This project demonstrates basic banking operations using a `BankAccount` class a
 The `BankAccount` class represents a bank account with a final account number that cannot be changed once initialized. It also includes methods for depositing and withdrawing money.
 
 **Code:**
-- [BankAccount.java](../../java/src/awesome/lld/java/oop/finalkeyword/BankAccount.java)
+- [BankAccount.java](../../java/src/awesome/lld/fundamentals/oop/finalkeyword/BankAccount.java)
 
 ### 2. BankConstants Example
 
 The `BankConstants` class defines some final constants used in the application, such as the minimum balance and interest rate.
 
 **Code:**
-- [BankConstants.java](../../java/src/awesome/lld/java/oop/finalkeyword/BankConstants.java)
+- [BankConstants.java](../../java/src/awesome/lld/fundamentals/oop/finalkeyword/BankConstants.java)
 
 ## How to Run
 

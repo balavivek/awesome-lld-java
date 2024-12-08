@@ -9,21 +9,21 @@ This project demonstrates the usage of `ReentrantLock` in Java to ensure thread 
 The `BankAccount` class represents a bank account with methods protected by `ReentrantLock` to ensure thread safety.
 
 **Code:**
-- [BankAccount.java](../../java/src/awesome/lld/java/concurrency/locks/BankAccount.java)
+- [BankAccount.java](../../java/src/awesome/lld/fundamentals/concurrency/locks/BankAccount.java)
 
 ### 2. BankTransaction Example
 
 The `BankTransaction` class performs deposit and withdrawal operations on a `BankAccount`. It implements the `Runnable` interface to allow its instances to be executed by a thread.
 
 **Code:**
-- [BankTransaction.java](../../java/src/awesome/lld/java/concurrency/locks/BankTransaction.java)
+- [BankTransaction.java](../../java/src/awesome/lld/fundamentals/concurrency/locks/BankTransaction.java)
 
 ### 3. BankingApp Example
 
 The `BankingApp` class creates multiple threads to perform transactions on the shared `BankAccount`.
 
 **Code:**
-- [BankingApp.java](../../java/src/awesome/lld/java/concurrency/locks/BankingApp.java)
+- [BankingApp.java](../../java/src/awesome/lld/fundamentals/concurrency/locks/BankingApp.java)
 
 ## How to Run
 

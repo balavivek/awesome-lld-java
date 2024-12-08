@@ -9,21 +9,21 @@ This project demonstrates the usage of the `volatile` keyword in Java to ensure 
 The `Counter` class represents a simple counter with a `volatile` variable to ensure visibility of changes across threads.
 
 **Code:**
-- [Counter.java](../../java/src/awesome/lld/java/concurrency/volatilekeyword/Counter.java)
+- [Counter.java](../../java/src/awesome/lld/fundamentals/concurrency/volatilekeyword/Counter.java)
 
 ### 2. CounterIncrementer Example
 
 The `CounterIncrementer` class increments the counter. It implements the `Runnable` interface to allow its instances to be executed by a thread.
 
 **Code:**
-- [CounterIncrementer.java](../../java/src/awesome/lld/java/concurrency/volatilekeyword/CounterIncrementer.java)
+- [CounterIncrementer.java](../../java/src/awesome/lld/fundamentals/concurrency/volatilekeyword/CounterIncrementer.java)
 
 ### 3. VolatileExampleApp Example
 
 The `VolatileExampleApp` class creates multiple threads to increment the shared counter.
 
 **Code:**
-- [VolatileExampleApp.java](../../java/src/awesome/lld/java/concurrency/volatilekeyword/VolatileExampleApp.java)
+- [VolatileExampleApp.java](../../java/src/awesome/lld/fundamentals/concurrency/volatilekeyword/VolatileExampleApp.java)
 
 ## How to Run
 

@@ -10,7 +10,7 @@ Let's consider a real-time scenario where we have a data repository that can sto
 
 The `DataRepository` class uses generics to store and retrieve data of any type.
 
-[DataRepository.java](../../java/src/awesome/lld/java/generics/datarepository/DataRepository.java)
+[DataRepository.java](../../java/src/awesome/lld/fundamentals/generics/datarepository/DataRepository.java)
 
 
 
@@ -18,19 +18,19 @@ The `DataRepository` class uses generics to store and retrieve data of any type.
 
 The `User` class represents a user entity.
 
-[User.java](../../java/src/awesome/lld/java/generics/datarepository/User.java)
+[User.java](../../java/src/awesome/lld/fundamentals/generics/datarepository/User.java)
 
 #### Product Class
 
 The `Product` class represents a product entity.
 
-[Product.java](../../java/src/awesome/lld/java/generics/datarepository/Product.java)
+[Product.java](../../java/src/awesome/lld/fundamentals/generics/datarepository/Product.java)
 
 #### GenericsApp Class
 
 The `GenericsApp` class demonstrates the usage of the `DataRepository` with different types.
 
-[GenericsApp.java](../../java/src/awesome/lld/java/generics/datarepository/GenericsApp.java)
+[GenericsApp.java](../../java/src/awesome/lld/fundamentals/generics/datarepository/GenericsApp.java)
 
 ### Explanation
 

@@ -10,14 +10,14 @@ Let's consider a real-time scenario where an inventory management system needs t
 
 The `InventoryManager` class uses a `ConcurrentHashMap` to manage the inventory of products.
 
-[InventoryManager.java](../../java/src/awesome/lld/java/concurrency/concurrentcollections/InventoryManager.java)
+[InventoryManager.java](../../java/src/awesome/lld/fundamentals/concurrency/concurrentcollections/InventoryManager.java)
 
 
 #### InventoryApp Class
 
 The `InventoryApp` class demonstrates the usage of `ConcurrentHashMap` to manage the inventory concurrently.
 
-[InventoryApp.java](../../java/src/awesome/lld/java/concurrency/concurrentcollections/InventoryApp.java)
+[InventoryApp.java](../../java/src/awesome/lld/fundamentals/concurrency/concurrentcollections/InventoryApp.java)
 
 ### Explanation
 

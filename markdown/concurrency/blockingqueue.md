@@ -10,27 +10,27 @@ Let's consider a real-time scenario where we have a logging system that collects
 
 The `LogMessage` class represents a log message with a timestamp and message content.
 
-[LogMessage.java](../../java/src/awesome/lld/java/concurrency/blockingqueue/LogMessage.java)
+[LogMessage.java](../../java/src/awesome/lld/fundamentals/concurrency/blockingqueue/LogMessage.java)
 
 
 #### Logger Class
 
 The `Logger` class generates log messages and puts them into the `BlockingQueue`.
 
-[Logger.java](../../java/src/awesome/lld/java/concurrency/blockingqueue/Logger.java)
+[Logger.java](../../java/src/awesome/lld/fundamentals/concurrency/blockingqueue/Logger.java)
 
 
 #### LogProcessor Class
 
 The `LogProcessor` class takes log messages from the `BlockingQueue` and processes them.
 
-[LogProcessor.java](../../java/src/awesome/lld/java/concurrency/blockingqueue/LogProcessor.java)
+[LogProcessor.java](../../java/src/awesome/lld/fundamentals/concurrency/blockingqueue/LogProcessor.java)
 
 #### LoggingApp Class
 
 The `LoggingApp` class demonstrates the usage of `BlockingQueue` with logger and log processor threads.
 
-[LoggingApp.java](../../java/src/awesome/lld/java/concurrency/blockingqueue/LoggingApp.java)
+[LoggingApp.java](../../java/src/awesome/lld/fundamentals/concurrency/blockingqueue/LoggingApp.java)
 
 ### Explanation
 

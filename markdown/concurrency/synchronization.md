@@ -9,21 +9,21 @@ This project demonstrates the usage of synchronization in Java to ensure thread 
 The `BankAccount` class represents a bank account with synchronized methods to ensure thread safety.
 
 **Code:**
-- [BankAccount.java](../../java/src/awesome/lld/java/concurrency/synchronization/BankAccount.java)
+- [BankAccount.java](../../java/src/awesome/lld/fundamentals/concurrency/synchronization/BankAccount.java)
 
 ### 2. BankTransaction Example
 
 The `BankTransaction` class performs deposit and withdrawal operations on a `BankAccount`. It implements the `Runnable` interface to allow its instances to be executed by a thread.
 
 **Code:**
-- [BankTransaction.java](../../java/src/awesome/lld/java/concurrency/synchronization/BankTransaction.java)
+- [BankTransaction.java](../../java/src/awesome/lld/fundamentals/concurrency/synchronization/BankTransaction.java)
 
 ### 3. BankingApp Example
 
 The `BankingApp` class creates multiple threads to perform transactions on the shared `BankAccount`.
 
 **Code:**
-- [BankingApp.java](../../java/src/awesome/lld/java/concurrency/synchronization/BankingApp.java)
+- [BankingApp.java](../../java/src/awesome/lld/fundamentals/concurrency/synchronization/BankingApp.java)
 
 ## How to Run
 
